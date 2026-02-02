@@ -1,0 +1,11 @@
+{
+  "name": "voice-intel-desktop",
+  "version": "0.1.0",
+  "main": "electron-main.cjs",
+  "scripts": {
+    "electron": "electron electron-main.cjs"
+  },
+  "devDependencies": {
+    "electron": "^40.1.0"
+  }
+}
